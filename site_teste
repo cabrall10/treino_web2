@@ -1,9 +1,57 @@
 <html>
 
-<title> </title>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+	body {margin:0;}
 
-<body>
-<h1>treinamento aula web2</h1>
-</body>
+	.navbar {
+  	  overflow: hidden;
+  	  background-color: #333;
+  	  position: fixed;
+  	  top: 0;
+  	  width: 100%;
+  	}
+
+	.navbar a {
+  	  float: left;
+  	  display: block;
+  	  color: #f2f2f2;
+  	  text-align: center;
+  	  padding: 14px 16px;
+  	  text-decoration: none;
+   	  font-size: 17px;
+	}
+
+	.navbar a:hover {
+  	  background: #ddd;
+  	  color: black;
+	}	
+
+	.main {
+  	  padding: 16px;
+  	  margin-top: 30px;
+  	  height: 1500px; /* Used in this example to enable scrolling */
+	}
+
+    </style>
+    </head>
+
+    <title> </title>
+
+    <body>
+
+      <div class="navbar">
+        <a href="#ucam">UCAM</a>
+        <a href="#web1">WEB1</a>
+        <a href="#web2">WEB2</a>
+      </div>
+
+      <div class="main">
+
+        <h4>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h4>
+      </div>
+
+    </body>
 
 </html>
