@@ -42,9 +42,9 @@
     <body>
 
       <div class="navbar">
-        <a href="#ucam">UCAM</a>
-        <a href="#web1">WEB1</a>
-        <a href="#web2">WEB2</a>
+        <a href="https://www.ucam-campos.br/">UCAM</a>
+        <a href="https://pt.wikipedia.org/wiki/Desenvolvimento_web">WEB1</a>
+        <a href="https://www.intelectua.com.br/blog/o-que-e-desenvolvimento-web">WEB2</a>
       </div>
 
       <div class="main">
